@@ -1,0 +1,12 @@
+[
+  {
+    "id": "1",
+    "publicKey": "",
+    "algorithm": ""
+  },
+  {
+    "id": "mvmlHmRP0CjVkn6kx5HqAIaM1fg",
+    "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEooS_H6ZZwRpIBSduWpcQDsIzfPqhZGh2WxSGub_wFdOnle_BdSShgATtNjrgH6v34YCnubToH3MDXH5yapf32g==",
+    "algorithm": "ES256"
+  }
+]
